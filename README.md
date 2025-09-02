@@ -1,8 +1,9 @@
 # Projeto de Avaliação para Desenvolvedor da Elogica
+Uma aplicação .NET 8.0 demonstrando padrões de arquitetura de software modernos e melhores práticas. Este projeto apresenta Domain-Driven Design (DDD), padrão CQRS/Mediator, Entity Framework Core com PostgreSQL e testes unitários abrangentes.
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
-
-Uma aplicação .NET 8.0 demonstrando padrões de arquitetura de software modernos e melhores práticas. Este projeto apresenta Domain-Driven Design (DDD), padrão CQRS/Mediator, Entity Framework Core com PostgreSQL e testes unitários abrangentes.
+<img width="1512" height="1268" alt="swagger" src="https://github.com/user-attachments/assets/5ba7b45d-1603-41b2-877c-899fd006dfb7" />
+<img width="1485" height="664" alt="unit-tests" src="https://github.com/user-attachments/assets/357c1f0e-b2eb-4cbb-93b9-4f08837a079e" />
 
 ## 🚀 Funcionalidades
 
